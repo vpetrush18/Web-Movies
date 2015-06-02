@@ -1,0 +1,4 @@
+c:\users\elena&vlatko\documents\visual studio 2010\Projects\WebAplikacijaMovies\WebAplikacijaMovies\bin\WebAplikacijaMovies.dll
+c:\users\elena&vlatko\documents\visual studio 2010\Projects\WebAplikacijaMovies\WebAplikacijaMovies\bin\WebAplikacijaMovies.pdb
+c:\users\elena&vlatko\documents\visual studio 2010\Projects\WebAplikacijaMovies\WebAplikacijaMovies\obj\Debug\WebAplikacijaMovies.dll
+c:\users\elena&vlatko\documents\visual studio 2010\Projects\WebAplikacijaMovies\WebAplikacijaMovies\obj\Debug\WebAplikacijaMovies.pdb
